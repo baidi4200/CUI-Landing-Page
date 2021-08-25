@@ -41,7 +41,7 @@ nav img{
     margin: 40px;
 }
 .nav-links ul li::after{
-    content: 'wow';
+    content: ;
     width: 0%;
     height: 2px;
     background: #f44336;
